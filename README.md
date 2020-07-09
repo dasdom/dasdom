@@ -11,4 +11,4 @@ If you are a beginner in iOS development and would like to have fun while learni
 
 Look at this nice cover:
 
-![](dhios.jpg)
+![](dhios_small.jpg)
